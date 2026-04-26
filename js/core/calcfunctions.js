@@ -64,8 +64,9 @@ function cleanString(input) {
 export function validateExponential(inputString, noZero) {
     const preppedString = inputString.replace(",", ".");
     const regexAllowedFormat = /^[0-9]+(\.[0-9]*)?([eE][-+]?[0-9]+)?$/;
+    const regexValueZero = /^0+(\.0*)?$/;
 
-    if (noZero === true && preppedString === "0") {
+    if (noZero === true && regexValueZero.test(preppedString)) {
         return "isZero";
     };
 
