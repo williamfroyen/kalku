@@ -163,7 +163,7 @@ export const formulaTable = {
         formula: (x, y, z) => {
             if (Math.abs(z % 180) === 90) {
                 return 0;
-            }
+            };
             return x * y * Math.cos(z * Math.PI / 180);
         },
         decimals: 3,
@@ -465,7 +465,7 @@ export const formulaTable = {
         formula: (x, y, z) => {
             if (Math.abs(z % 180) === 90) {
                 return 0;
-            }
+            };
             return x * y * Math.cos(z * Math.PI / 180);
         },
         decimals: 3,
@@ -511,12 +511,7 @@ export const formulaTable = {
 
     // PROSENT
     "finn-forprisen": {
-        formula: (x, y) => x/(1 - (y / 100)),
-        decimals: 3,
-        noZero: false,
-        neg: false,
-        unit: "kr",
-        prefix: "Førpris:"
+        isStandalone: true
     },
     "finn-hele-tallet-fra-prosenten": {
         formula: (x, y) => x / (y / 100),
