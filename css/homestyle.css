@@ -468,6 +468,10 @@ footer #bottom-footer #footerLastElement {
         margin-right: 10px;
     }
 
+    #selectcategory #categoryselectionfield .categoryselection {
+        padding: 5px 10px;
+    }
+
     #search #searchinputfield #searchinput {
         width: 250px;
     }
