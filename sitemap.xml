@@ -1,842 +1,938 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://kalku.no/</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://kalku.no/index.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/kontakt.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/faq.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/liter-til-gallon.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/gallon-til-liter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/liter-til-fluidounce.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/fluidounce-til-liter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/desiliter-til-uscups.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/uscups-til-desiliter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/desiliter-til-fluidounce.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/fluidounce-til-desiliter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/liter-til-kubikkmeter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/kubikkmeter-til-liter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/liter-til-milliliter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/milliliter-til-liter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/desiliter-til-milliliter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/milliliter-til-desiliter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/spiseskje-til-milliliter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/milliliter-til-spiseskje.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/teskje-til-milliliter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/milliliter-til-teskje.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/teskje-til-spiseskje.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/volum/spiseskje-til-teskje.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/meter-til-fot.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/fot-til-meter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/cm-til-fot.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/fot-til-cm.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/cm-til-tommer.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/tommer-til-cm.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/mm-til-tommer.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/tommer-til-mm.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/kilometer-til-mil.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/mil-til-kilometer.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/km-til-nautiske-mil.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/nautiske-mil-til-km.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/meter-til-yard.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/lengde/yard-til-meter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/kilogram-til-pund.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/pund-til-kilogram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/gram-til-ounces.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/ounces-til-gram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/kilogram-til-ounces.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/ounces-til-kilogram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/kilogram-til-stones.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/stones-til-kilogram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/gram-til-milligram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/milligram-til-gram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/kilogram-til-short-ton.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/short-ton-til-kilogram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/gram-til-troy-ounce.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vekt/troy-ounce-til-gram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/bevegelse/kmt-til-mph.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/bevegelse/mph-til-kmt.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/bevegelse/kmt-til-ms.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/bevegelse/ms-til-kmt.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/bevegelse/kmt-til-knop.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/bevegelse/knop-til-kmt.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/bevegelse/ms-til-knop.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/bevegelse/knop-til-ms.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/bevegelse/kmt-til-minkm.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/bevegelse/minkm-til-kmt.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/geometri/finn-hypotenusen.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/geometri/finn-katet.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/geometri/areal-av-kule.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/geometri/areal-av-sirkel.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/geometri/areal-av-sylinder.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/geometri/omkrets-av-sirkel.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/geometri/volum-av-sylinder.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/geometri/volum-av-kjegle.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/geometri/volum-av-kule.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/geometri/takvinkelkalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mat/kaffekalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mat/mel-dl-til-gram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mat/mel-gram-til-dl.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mat/sukker-dl-til-gram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mat/sukker-gram-til-dl.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mat/smor-dl-til-gram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mat/smor-gram-til-dl.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mat/stekeovn-til-airfryer-temp.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mat/stekeovn-til-airfryer-tid.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/tid/dager-til-timer.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/tid/timer-til-dager.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/tid/timer-til-minutter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/tid/minutter-til-timer.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/tid/minutter-til-sekunder.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/tid/sekunder-til-minutter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/tid/timer-til-sekunder.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/tid/sekunder-til-timer.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/areal/kvadratmeter-til-sqft.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/areal/sqft-til-kvadratmeter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/areal/kvadratmeter-til-hektar.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/areal/hektar-til-kvadratmeter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/areal/kvadratmeter-til-dekar.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/areal/dekar-til-kvadratmeter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/areal/hektar-til-dekar.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/areal/dekar-til-hektar.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/trykk/kpa-til-bar.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/trykk/bar-til-kpa.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/trykk/mpa-til-bar.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/trykk/bar-til-mpa.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/trykk/kpa-til-psi.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/trykk/psi-til-kpa.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/trykk/bar-til-psi.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/trykk/psi-til-bar.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/elektromagnetisme/bolgekalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/elektromagnetisme/svingninger-og-tid-til-periode.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/elektromagnetisme/svingninger-og-tid-til-frekvens.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/elektromagnetisme/stefan-boltzmann-kalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/elektromagnetisme/wiens-forskyvningslov-kalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/elektromagnetisme/magnetisk-fluks-kalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/strom-og-energi/beregn-kwh-fra-kilowatt.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/strom-og-energi/beregn-kwh-fra-watt.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/strom-og-energi/beregn-stromkostnad.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/strom-og-energi/joule-til-wattimer.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/strom-og-energi/wattimer-til-joule.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/strom-og-energi/megajoule-til-kwh.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/strom-og-energi/kwh-til-megajoule.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/prosent/finn-prosenten.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/prosent/finn-forprisen.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/prosent/finn-prosentandelen.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/prosent/finn-prosentoppgang.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/prosent/finn-prosentnedgang.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/prosent/finn-hele-tallet-fra-prosenten.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/temperatur/celsius-til-fahrenheit.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/temperatur/fahrenheit-til-celsius.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/temperatur/celsius-til-kelvin.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/temperatur/kelvin-til-celsius.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/temperatur/fahrenheit-til-kelvin.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/temperatur/kelvin-til-fahrenheit.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mekanikk-og-arbeid/beregn-arbeid.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mekanikk-og-arbeid/finn-kinetisk-energi.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mekanikk-og-arbeid/finn-potensiell-energi.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mekanikk-og-arbeid/hestekrefter-til-kilowatt.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/mekanikk-og-arbeid/kilowatt-til-hestekrefter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/matematikk/finn-kvadratroten.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/matematikk/finn-tredjeroten.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/matematikk/brok-til-desimaltall.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/matematikk/brok-til-prosent.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/elektrisitet/ampere-og-volt-til-watt.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/elektrisitet/volt-og-ampere-til-ohm.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/elektrisitet/volt-og-ohm-til-ampere.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/elektrisitet/ohm-og-ampere-til-volt.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/helse/bmi-kalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/helse/kcal-til-kilojoule.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/helse/kilojoule-til-kcal.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/kraft/finn-tyngden.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/kraft/finn-oppdrift.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/kraft/finn-glidefriksjon.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/statistikk/mediankalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/statistikk/gjennomsnittskalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/statistikk/standardavvikkalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/okonomi/investeringskalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/okonomi/boliglanskalkulator.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/diverse/hundear.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/vilk%C3%A5r-for-bruk.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/personvern.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kalku.no/faq/temperatur/hvor-mange-grader-er-100-fahrenheit-i-celsius.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kalku.no/faq/temperatur/hva-er-0-grader-celsius-i-fahrenheit.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kalku.no/faq/temperatur/hva-er-37-grader-celsius-i-fahrenheit.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kalku.no/faq/lengde/hvor-mange-centimeter-er-en-tomme.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kalku.no/faq/lengde/hvor-mange-meter-er-en-fot.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kalku.no/faq/lengde/hvor-mange-fot-er-en-meter.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kalku.no/faq/vekt/hvor-mange-kilo-er-et-pund.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kalku.no/faq/vekt/hvor-mye-veier-en-ounce-i-gram.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kalku.no/faq/vekt/hva-er-en-stone-i-kilo.html</loc>
-  <lastmod>2026-04-13T17:11:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://kalku.no/volum/liter-til-gallon.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/liter-til-gallon.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/liter-till-gallon.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/liter-till-gallon.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/liter-til-gallon.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/liter-till-gallon.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/gallon-til-liter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/gallon-til-liter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/gallon-till-liter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/gallon-till-liter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/gallon-til-liter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/gallon-till-liter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/liter-til-fluidounce.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/liter-til-fluidounce.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/liter-till-fluidounce.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/liter-till-fluidounce.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/liter-til-fluidounce.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/liter-till-fluidounce.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/fluidounce-til-liter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/fluidounce-til-liter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/fluidounce-till-liter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/fluidounce-till-liter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/fluidounce-til-liter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/fluidounce-till-liter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/desiliter-til-uscups.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/uscups-til-desiliter.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/desiliter-til-fluidounce.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/desiliter-til-fluidounce.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/deciliter-till-fluidounce.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/deciliter-till-fluidounce.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/desiliter-til-fluidounce.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/deciliter-till-fluidounce.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/fluidounce-til-desiliter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/fluidounce-til-desiliter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/fluidounce-till-deciliter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/fluidounce-till-deciliter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/fluidounce-til-desiliter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/fluidounce-till-deciliter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/liter-til-kubikkmeter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/liter-til-kubikkmeter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/liter-till-kubikmeter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/liter-till-kubikmeter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/liter-til-kubikkmeter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/liter-till-kubikmeter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/kubikkmeter-til-liter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/kubikkmeter-til-liter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/kubikmeter-till-liter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/kubikmeter-till-liter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/kubikkmeter-til-liter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/kubikmeter-till-liter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/liter-til-milliliter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/liter-til-milliliter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/liter-till-milliliter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/liter-till-milliliter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/liter-til-milliliter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/liter-till-milliliter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/milliliter-til-liter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/milliliter-til-liter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/milliliter-till-liter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/milliliter-till-liter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/milliliter-til-liter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/milliliter-till-liter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/desiliter-til-milliliter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/desiliter-til-milliliter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/deciliter-till-milliliter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/deciliter-till-milliliter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/desiliter-til-milliliter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/deciliter-till-milliliter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/milliliter-til-desiliter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/milliliter-til-desiliter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/milliliter-till-deciliter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/volym/milliliter-till-deciliter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/milliliter-til-desiliter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/milliliter-till-deciliter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/spiseskje-til-milliliter.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/milliliter-til-spiseskje.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/teskje-til-milliliter.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/milliliter-til-teskje.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/teskje-til-spiseskje.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/volum/spiseskje-til-teskje.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/meter-til-fot.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/meter-til-fot.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/meter-till-fot.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/meter-till-fot.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/meter-til-fot.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/meter-till-fot.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/fot-til-meter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/fot-til-meter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/fot-till-meter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/fot-till-meter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/fot-til-meter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/fot-till-meter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/cm-til-fot.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/cm-til-fot.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/cm-till-fot.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/cm-till-fot.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/cm-til-fot.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/cm-till-fot.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/fot-til-cm.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/fot-til-cm.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/fot-till-cm.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/fot-till-cm.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/fot-til-cm.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/fot-till-cm.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/cm-til-tommer.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/cm-til-tommer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/cm-till-tum.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/cm-till-tum.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/cm-til-tommer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/cm-till-tum.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/tommer-til-cm.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/tommer-til-cm.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/tum-till-cm.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/tum-till-cm.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/tommer-til-cm.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/tum-till-cm.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/mm-til-tommer.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/mm-til-tommer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/mm-till-tum.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/mm-till-tum.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/mm-til-tommer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/mm-till-tum.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/tommer-til-mm.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/tommer-til-mm.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/tum-till-mm.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/tum-till-mm.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/tommer-til-mm.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/tum-till-mm.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/kilometer-til-mil.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/kilometer-til-mil.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/kilometer-till-mil.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/kilometer-till-mil.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/kilometer-til-mil.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/kilometer-till-mil.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/mil-til-kilometer.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/mil-til-kilometer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/mil-till-kilometer.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/mil-till-kilometer.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/mil-til-kilometer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/mil-till-kilometer.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/miles-til-kilometer.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/kilometer-til-miles.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/km-til-nautiske-mil.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/km-til-nautiske-mil.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/km-till-nautiska-mil.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/km-till-nautiska-mil.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/km-til-nautiske-mil.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/km-till-nautiska-mil.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/nautiske-mil-til-km.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/nautiske-mil-til-km.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/nautiska-mil-till-km.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/nautiska-mil-till-km.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/nautiske-mil-til-km.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/nautiska-mil-till-km.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/meter-til-yard.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/meter-til-yard.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/meter-till-yard.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/meter-till-yard.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/meter-til-yard.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/meter-till-yard.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/lengde/yard-til-meter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/yard-til-meter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/yard-till-meter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/langd/yard-till-meter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/lengde/yard-til-meter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/langd/yard-till-meter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/kilogram-til-pund.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/kilogram-til-pund.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/kilogram-till-pund.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/vikt/kilogram-till-pund.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/kilogram-til-pund.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/kilogram-till-pund.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/pund-til-kilogram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/pund-til-kilogram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/pund-till-kilogram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/vikt/pund-till-kilogram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/pund-til-kilogram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/pund-till-kilogram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/gram-til-ounces.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/gram-til-ounces.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/gram-till-uns.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/vikt/gram-till-uns.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/gram-til-ounces.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/gram-till-uns.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/ounces-til-gram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/ounces-til-gram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/uns-till-gram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/vikt/uns-till-gram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/ounces-til-gram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/uns-till-gram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/kilogram-til-ounces.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/kilogram-til-ounces.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/kilogram-till-uns.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/vikt/kilogram-till-uns.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/kilogram-til-ounces.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/kilogram-till-uns.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/ounces-til-kilogram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/ounces-til-kilogram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/uns-till-kilogram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/vikt/uns-till-kilogram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/ounces-til-kilogram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/uns-till-kilogram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/kilogram-til-stones.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/kilogram-til-stones.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/kilogram-till-stone.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/vikt/kilogram-till-stone.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/kilogram-til-stones.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/kilogram-till-stone.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/stones-til-kilogram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/stones-til-kilogram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/stone-till-kilogram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/vikt/stone-till-kilogram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/stones-til-kilogram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/stone-till-kilogram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/gram-til-milligram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/gram-til-milligram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/gram-till-milligram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/vikt/gram-till-milligram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/gram-til-milligram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/gram-till-milligram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/milligram-til-gram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/milligram-til-gram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/milligram-till-gram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/vikt/milligram-till-gram.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vekt/milligram-til-gram.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/vikt/milligram-till-gram.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/kilogram-til-short-ton.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/short-ton-til-kilogram.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/gram-til-troy-ounce.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/vekt/troy-ounce-til-gram.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/bevegelse/kmt-til-mph.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/kmt-til-mph.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/kmh-till-mph.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/rorelse/kmh-till-mph.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/kmt-til-mph.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/kmh-till-mph.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/bevegelse/mph-til-kmt.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/mph-til-kmt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/mph-till-kmh.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/rorelse/mph-till-kmh.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/mph-til-kmt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/mph-till-kmh.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/bevegelse/kmt-til-ms.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/kmt-til-ms.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/kmh-till-ms.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/rorelse/kmh-till-ms.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/kmt-til-ms.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/kmh-till-ms.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/bevegelse/ms-til-kmt.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/ms-til-kmt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/ms-till-kmh.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/rorelse/ms-till-kmh.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/ms-til-kmt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/ms-till-kmh.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/bevegelse/kmt-til-knop.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/kmt-til-knop.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/kmh-till-knop.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/rorelse/kmh-till-knop.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/kmt-til-knop.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/kmh-till-knop.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/bevegelse/knop-til-kmt.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/knop-til-kmt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/knop-till-kmh.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/rorelse/knop-till-kmh.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/knop-til-kmt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/knop-till-kmh.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/bevegelse/ms-til-knop.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/ms-til-knop.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/ms-till-knop.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/rorelse/ms-till-knop.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/ms-til-knop.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/ms-till-knop.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/bevegelse/knop-til-ms.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/knop-til-ms.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/knop-till-ms.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/rorelse/knop-till-ms.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/bevegelse/knop-til-ms.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/rorelse/knop-till-ms.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/bevegelse/kmt-til-minkm.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/bevegelse/minkm-til-kmt.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/geometri/finn-hypotenusen.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/geometri/finn-katet.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/geometri/areal-av-kule.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/geometri/areal-av-sirkel.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/geometri/areal-av-sylinder.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/geometri/omkrets-av-sirkel.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/geometri/volum-av-sylinder.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/geometri/volum-av-kjegle.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/geometri/volum-av-kule.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/geometri/takvinkelkalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mat/kaffekalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mat/mel-dl-til-gram.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mat/mel-gram-til-dl.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mat/sukker-dl-til-gram.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mat/sukker-gram-til-dl.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mat/smor-dl-til-gram.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mat/smor-gram-til-dl.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mat/stekeovn-til-airfryer-temp.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mat/stekeovn-til-airfryer-tid.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/tid/dager-til-timer.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/dager-til-timer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/dagar-till-timmar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tid/dagar-till-timmar.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/dager-til-timer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/dagar-till-timmar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/tid/timer-til-dager.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/timer-til-dager.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/timmar-till-dagar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tid/timmar-till-dagar.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/timer-til-dager.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/timmar-till-dagar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/tid/timer-til-minutter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/timer-til-minutter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/timmar-till-minuter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tid/timmar-till-minuter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/timer-til-minutter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/timmar-till-minuter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/tid/minutter-til-timer.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/minutter-til-timer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/minuter-till-timmar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tid/minuter-till-timmar.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/minutter-til-timer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/minuter-till-timmar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/tid/minutter-til-sekunder.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/minutter-til-sekunder.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/minuter-till-sekunder.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tid/minuter-till-sekunder.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/minutter-til-sekunder.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/minuter-till-sekunder.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/tid/sekunder-til-minutter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/sekunder-til-minutter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/sekunder-till-minuter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tid/sekunder-till-minuter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/sekunder-til-minutter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/sekunder-till-minuter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/tid/timer-til-sekunder.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/timer-til-sekunder.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/timmar-till-sekunder.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tid/timmar-till-sekunder.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/timer-til-sekunder.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/timmar-till-sekunder.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/tid/sekunder-til-timer.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/sekunder-til-timer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/sekunder-till-timmar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tid/sekunder-till-timmar.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/tid/sekunder-til-timer.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tid/sekunder-till-timmar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/areal/kvadratmeter-til-sqft.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/areal/sqft-til-kvadratmeter.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/areal/kvadratmeter-til-hektar.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/areal/hektar-til-kvadratmeter.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/areal/kvadratmeter-til-dekar.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/areal/dekar-til-kvadratmeter.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/areal/hektar-til-dekar.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/areal/dekar-til-hektar.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/trykk/kpa-til-bar.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/kpa-til-bar.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/kpa-till-bar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tryck/kpa-till-bar.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/kpa-til-bar.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/kpa-till-bar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/trykk/bar-til-kpa.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/bar-til-kpa.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/bar-till-kpa.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tryck/bar-till-kpa.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/bar-til-kpa.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/bar-till-kpa.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/trykk/mpa-til-bar.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/mpa-til-bar.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/mpa-till-bar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tryck/mpa-till-bar.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/mpa-til-bar.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/mpa-till-bar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/trykk/bar-til-mpa.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/bar-til-mpa.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/bar-till-mpa.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tryck/bar-till-mpa.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/bar-til-mpa.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/bar-till-mpa.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/trykk/kpa-til-psi.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/kpa-til-psi.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/kpa-till-psi.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tryck/kpa-till-psi.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/kpa-til-psi.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/kpa-till-psi.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/trykk/psi-til-kpa.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/psi-til-kpa.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/psi-till-kpa.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tryck/psi-till-kpa.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/psi-til-kpa.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/psi-till-kpa.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/trykk/bar-til-psi.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/bar-til-psi.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/bar-till-psi.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tryck/bar-till-psi.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/bar-til-psi.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/bar-till-psi.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/trykk/psi-til-bar.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/psi-til-bar.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/psi-till-bar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/tryck/psi-till-bar.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/trykk/psi-til-bar.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/tryck/psi-till-bar.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/elektromagnetisme/bolgekalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/elektromagnetisme/svingninger-og-tid-til-periode.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/elektromagnetisme/svingninger-og-tid-til-frekvens.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/elektromagnetisme/stefan-boltzmann-kalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/elektromagnetisme/wiens-forskyvningslov-kalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/elektromagnetisme/magnetisk-fluks-kalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/strom-og-energi/beregn-kwh-fra-kilowatt.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/strom-og-energi/beregn-kwh-fra-watt.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/strom-og-energi/beregn-stromkostnad.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/strom-og-energi/joule-til-wattimer.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/strom-og-energi/wattimer-til-joule.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/strom-og-energi/megajoule-til-kwh.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/strom-og-energi/kwh-til-megajoule.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/prosent/finn-prosenten.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/prosent/finn-forprisen.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/prosent/finn-prosentandelen.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/prosent/finn-prosentoppgang.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/prosent/finn-prosentnedgang.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/prosent/finn-hele-tallet-fra-prosenten.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/temperatur/celsius-til-fahrenheit.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/celsius-til-fahrenheit.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/celsius-till-fahrenheit.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/temperatur/celsius-till-fahrenheit.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/celsius-til-fahrenheit.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/celsius-till-fahrenheit.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/temperatur/fahrenheit-til-celsius.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/fahrenheit-til-celsius.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/fahrenheit-till-celsius.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/temperatur/fahrenheit-till-celsius.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/fahrenheit-til-celsius.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/fahrenheit-till-celsius.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/temperatur/celsius-til-kelvin.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/celsius-til-kelvin.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/celsius-till-kelvin.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/temperatur/celsius-till-kelvin.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/celsius-til-kelvin.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/celsius-till-kelvin.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/temperatur/kelvin-til-celsius.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/kelvin-til-celsius.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/kelvin-till-celsius.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/temperatur/kelvin-till-celsius.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/kelvin-til-celsius.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/kelvin-till-celsius.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/temperatur/fahrenheit-til-kelvin.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/fahrenheit-til-kelvin.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/fahrenheit-till-kelvin.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/temperatur/fahrenheit-till-kelvin.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/fahrenheit-til-kelvin.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/fahrenheit-till-kelvin.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/temperatur/kelvin-til-fahrenheit.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/kelvin-til-fahrenheit.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/kelvin-till-fahrenheit.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/temperatur/kelvin-till-fahrenheit.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/temperatur/kelvin-til-fahrenheit.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/temperatur/kelvin-till-fahrenheit.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/mekanikk-og-arbeid/beregn-arbeid.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mekanikk-og-arbeid/finn-kinetisk-energi.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mekanikk-og-arbeid/finn-potensiell-energi.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/mekanikk-og-arbeid/hestekrefter-til-kilowatt.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/mekanikk-og-arbeid/hestekrefter-til-kilowatt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/mekanik-och-arbete/hastkrafter-till-kilowatt.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/mekanik-och-arbete/hastkrafter-till-kilowatt.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/mekanikk-og-arbeid/hestekrefter-til-kilowatt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/mekanik-och-arbete/hastkrafter-till-kilowatt.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/mekanikk-og-arbeid/kilowatt-til-hestekrefter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/mekanikk-og-arbeid/kilowatt-til-hestekrefter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/mekanik-och-arbete/kilowatt-till-hastkrafter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/mekanik-och-arbete/kilowatt-till-hastkrafter.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/mekanikk-og-arbeid/kilowatt-til-hestekrefter.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/mekanik-och-arbete/kilowatt-till-hastkrafter.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/matematikk/finn-kvadratroten.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/matematikk/finn-tredjeroten.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/matematikk/brok-til-desimaltall.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/matematikk/brok-til-prosent.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/elektrisitet/ampere-og-volt-til-watt.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/elektrisitet/volt-og-ampere-til-ohm.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/elektrisitet/volt-og-ohm-til-ampere.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/elektrisitet/ohm-og-ampere-til-volt.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/helse/bmi-kalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/helse/kcal-til-kilojoule.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/helse/kilojoule-til-kcal.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/kraft/finn-tyngden.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/kraft/finn-oppdrift.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/kraft/finn-glidefriksjon.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/statistikk/mediankalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/statistikk/gjennomsnittskalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/statistikk/standardavvikkalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/okonomi/investeringskalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/okonomi/boliglanskalkulator.html</loc>
+  </url>
+  <url>
+    <loc>https://kalku.no/diverse/hundear.html</loc>
+  </url>
 </urlset>
