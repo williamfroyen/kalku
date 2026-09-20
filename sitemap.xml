@@ -1,6 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kalku.no</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/" />
+  </url>
+  <url>
+    <loc>https://kalku.se</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/" />
+  </url>
+| <url>
+    <loc>https://kalku.no/kontakt.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/kontakt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/kontakt.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/kontakt.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/kontakt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/kontakt.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/personvern.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/personvern.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/annvandarvillkor/kontakt.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/annvandarvillkor.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/personvern.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/annvandarvillkor/kontakt.html" />
+  </url>
+  <url>
+    <loc>https://kalku.no/vilkår-for-bruk.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vilkår-for-bruk.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/integritetspolicy.html" />
+  </url>
+  <url>
+    <loc>https://kalku.se/integritetspolicy.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/vilkår-for-bruk.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/integritetspolicy.html" />
+  </url>
+  <url>
     <loc>https://kalku.no/volum/liter-til-gallon.html</loc>
     <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/volum/liter-til-gallon.html" />
     <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/liter-till-gallon.html" />
