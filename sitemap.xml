@@ -13,22 +13,22 @@
 | <url>
     <loc>https://kalku.no/kontakt.html</loc>
     <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/kontakt.html" />
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/kontakt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/kontakt.html" />
   </url>
   <url>
     <loc>https://kalku.se/kontakt.html</loc>
     <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/kontakt.html" />
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/volym/kontakt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/kontakt.html" />
   </url>
   <url>
     <loc>https://kalku.no/personvern.html</loc>
     <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/personvern.html" />
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/annvandarvillkor/kontakt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/anvandarvillkor.html" />
   </url>
   <url>
     <loc>https://kalku.no/annvandarvillkor.html</loc>
     <xhtml:link rel="alternate" hreflang="nb-NO" href="https://kalku.no/personvern.html" />
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/annvandarvillkor/kontakt.html" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://kalku.se/anvandarvillkor.html" />
   </url>
   <url>
     <loc>https://kalku.no/vilkår-for-bruk.html</loc>
